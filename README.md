@@ -1,6 +1,19 @@
 # NOVA CARE — Voice AI Doctor Appointment Assistant
 
 NOVA CARE is a clinic appointment management dashboard with a voice-based AI receptionist. Patients can interact with the receptionist by voice to request appointments, check doctor selection and availability, and cancel appointments. The clinic team can manage doctors and monitor appointments through a web dashboard.
+## Application Screenshots
+
+### Dashboard
+![Overview](screenshots/overview.png)
+
+### Doctors
+![Doctors](screenshots/doctors.png)
+
+### Appointments
+![Appointments](screenshots/appointments.png)
+
+### AI Receptionist
+![AI Receptionist](screenshots/receptionist.png)
 
 ## Features
 
