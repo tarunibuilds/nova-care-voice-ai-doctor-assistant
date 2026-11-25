@@ -125,4 +125,4 @@ Built as an SDE internship assignment: **Voice AI Doctor Appointment Assistant**
 
 ---
 
-*Update this README with screenshots, repository details, and any environment-specific configuration before publishing.*
+
